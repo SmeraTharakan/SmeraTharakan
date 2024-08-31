@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmeraTharakan
+👋 Hi, I’m @SmeraTharakan
 
 
 <!---
